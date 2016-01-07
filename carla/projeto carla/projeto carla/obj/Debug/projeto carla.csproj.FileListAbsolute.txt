@@ -23,3 +23,4 @@ C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\
 C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\MySql.Data.dll
 C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.exe
 C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.pdb
+C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\Correios.Net.dll

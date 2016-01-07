@@ -1,3 +1,5 @@
+DROP DATABASE `databasecarla`;
+
 CREATE DATABASE `databasecarla` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
 USE `databasecarla`;
@@ -68,13 +70,6 @@ CREATE TABLE `orcamentoeoseestoque` (
   PRIMARY KEY (`codoose`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-
-CREATE TABLE `orcamentoeoseestoque` (
-  `codoose` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `codorcamentofk` int(11) NOT NULL,
-  `codprodfk` int(11) NOT NULL,
-  PRIMARY KEY (`codoose`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 CREATE TABLE `produtoestoque` (
   `codprod` int(10) unsigned NOT NULL AUTO_INCREMENT,
