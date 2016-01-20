@@ -10,16 +10,3 @@ C:\Users\Higor\Desktop\carla\projeto carla\projeto carla\obj\Debug\projeto carla
 C:\Users\Higor\Desktop\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.telaEsqueciMinhaSenha.resources
 C:\Users\Higor\Desktop\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.TelaMenuPrincipal.resources
 C:\Users\Higor\Desktop\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.TelaUsuarios.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.Properties.Resources.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.telaEsqueciMinhaSenha.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.telaLogin.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.TelaMenuPrincipal.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto_carla.TelaUsuarios.resources
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.csproj.GenerateResource.Cache
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\projeto carla.exe.config
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.csprojResolveAssemblyReference.cache
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\projeto carla.exe
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\projeto carla.pdb
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\bin\Debug\MySql.Data.dll
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.exe
-C:\Users\Felipe\Documents\GitHub\ProjetoCarla\carla\projeto carla\projeto carla\obj\Debug\projeto carla.pdb

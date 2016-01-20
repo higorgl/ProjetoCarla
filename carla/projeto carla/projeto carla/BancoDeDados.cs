@@ -12,7 +12,6 @@ namespace projeto_carla
         private MySqlConnection conexao = new MySqlConnection();
         private MySqlConnectionStringBuilder stringConexao = new MySqlConnectionStringBuilder();
         private MySqlCommand SQL = new MySqlCommand();
-        private List<MySqlParameter> parametros = new List<MySqlParameter>();
 
         public BancoDeDados()
         {
@@ -24,15 +23,7 @@ namespace projeto_carla
 
             this.conexao.ConnectionString = stringConexao.ConnectionString;
 
-            this.SQL.Connection = conexao;
-        }
-
-        public void adicionarParametros(params MySqlParameter[] parametros)
-        {
-            foreach (MySqlParameter parametro in parametros)
-            {
-                this.SQL.Parameters.Add(parametro);
-            }
+            SQL.Connection = conexao;
         }
 
         public bool executarComando(String SQL)
