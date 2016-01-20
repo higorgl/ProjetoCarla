@@ -15,6 +15,25 @@ namespace projeto_carla
         public telaLogin()
         {
             InitializeComponent();
+            Cliente cliente = new Cliente();
+            cliente.bairro = "A";
+            cliente.cep = "A";
+            cliente.cidade = "A";
+            cliente.complemento = "A";
+            cliente.cpf = "A";
+            cliente.preencherDataCriacaoComDataDeHoje();
+            cliente.email = "A";
+            cliente.endereco = "A";
+            cliente.logradouro = "A";
+            cliente.nome = "A";
+            cliente.numero = "A";
+            cliente.tel1 = "A";
+            cliente.tel2 = "A";
+            cliente.tel3 = "A";
+            cliente.tel4 = "A";
+            cliente.uf = "A";
+
+            cliente.cadastrar();
         }
 
         private void label1_Click(object sender, EventArgs e)
